@@ -1,0 +1,28 @@
+{
+  "name": "node01",
+  "version": "1.0.0",
+  "description": "Simple node.js server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "simple",
+    "node.js",
+    "server"
+  ],
+  "author": "Markus Nasellu",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnasell/simplenode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mnasell/simplenode/issues"
+  },
+  "homepage": "https://github.com/mnasell/simplenode#readme"
+}
