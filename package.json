@@ -14,7 +14,8 @@
   "author": "Markus Nasellu",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "p5": "^0.8.0"
   },
   "devDependencies": {},
   "repository": {
